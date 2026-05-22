@@ -4,7 +4,7 @@ CS junior at UT Dallas.
 
 Right now I'm doing NLP research with Dr. Vincent Ng on multimodal misinformation. I'm building the dataset infrastructure and helping shape how models reason about misleading text and image content, with a focus on argumentation structure and logical fallacies.
 
-On the side I'm building **TryEz**, a virtual try-on engine for clothing stores. Most try-on output still looks like a CG composite. The goal is something that passes as an actual product photo.
+On the side I'm building **SkippAI**, a ghost cursor that walks you through tasks on your screen. Ask it how to open an incognito tab and a second cursor moves to the three dots, points to the next click, and narrates each step until you're done.
 
 ### Recent work
 
