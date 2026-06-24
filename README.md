@@ -1,74 +1,70 @@
-## Bhumish Dayal
+### Hey, I'm Bhumish 👋
 
-CS junior at UT Dallas.
+I'm a CS student at UT Dallas (graduating 2027) who mostly likes turning rough ideas into
+things that actually run. Right now I'm interning as a software engineer at FloCareer, and
+before that I spent a year doing NLP research with Dr. Vincent Ng on multimodal
+misinformation. When I'm not working I'm usually deep in a side project, or playing
+badminton.
 
-Right now I'm doing NLP research with Dr. Vincent Ng on multimodal misinformation. I'm building the dataset infrastructure and helping shape how models reason about misleading text and image content, with a focus on argumentation structure and logical fallacies.
+### What I've been up to
 
-On the side I'm building **Cursorly**, a ghost cursor that walks you through tasks on your screen. Ask it how to open an incognito tab and a second cursor moves to the three dots, points to the next click, and narrates each step until you're done.
+**FloCareer** (software engineering intern, 2026 to now)
+Working on a generative face-replacement stage and an 8-stage data-anonymization pipeline
+(Whisper, pyannote, Presidio, ARX) across a dataset of a million-plus recordings.
 
-### Recent work
+**Pfizer** (AI engineering extern, 2026)
+Built a RAG system over 5,000+ clinical-supply docs with LlamaIndex, plus an ensemble OCR
+pipeline (Tesseract, PaddleOCR, EasyOCR) wired up to a Gradio chatbot.
 
-- **FrameSeek**: semantic video search. Detects scene boundaries, transcribes each segment, embeds and reranks. Returns the exact moment you asked for, not just the video that contains it. *FastAPI · ffmpeg · Whisper.*
-- **StegnoKit**: Python steganography toolkit. PRNG-permuted LSB on PNG/WAV with AES-256-GCM. PSNR/SSIM reporting and a regression suite.
-- **Subnautix**: AUV navigation. Weighted A* on a hazard cost map with online replanning, Kalman filter for state estimation, Monte Carlo evaluation across seeds. C++ on the hot path, Rust analyzers, Python plotting.
-- **VoxLite**: real-time keyword spotting. Mel-spectrogram CNN, 92.1% top-1 on Speech Commands v2, CPU inference behind a FastAPI mic endpoint.
-- **ArticulateAI**: speech-scoring service. Whisper for ASR, MFCC and VAD for noise robustness, rubric-constrained prompt for per-phoneme grammar and pronunciation feedback.
+**UT Dallas, Dr. Vincent Ng** (AI researcher, 2025)
+Built the annotation tooling and a 10K image-text benchmark for testing how well
+vision-language models catch misinformation.
 
-More on my portfolio → [bhumish-portolio.netlify.app](https://bhumish-portolio.netlify.app/).
+**Nebula Labs** (full-stack engineer, 2025)
+Shipped the React and Next.js front-end for the Trends platform. It hit 12,000+ users, and
+I got page loads about 35% faster with route-level chunking.
 
-### Tech I work with
+**Social Summer of Code** (open source contributor, 2026)
+15+ PRs merged into a real production codebase. It's one of the biggest open-source
+programs out there and a genuinely fun way to work with maintainers.
 
-**Languages**
+### Stuff I've built
 
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+**Cursorly** is a Windows desktop AI agent. It drops a ghost cursor on your screen that
+reads the actual UI automation tree (not screenshots) and walks you through a task one step
+at a time. Ask it how to open an incognito tab and a second cursor slides to the three dots
+and points at each click until you're done. Python, Rust (PyO3), Windows UIA, FastAPI and
+Supabase, 350+ tests.
+→ [cursorly.app](https://cursorly.app)
 
-**Frameworks & Libraries**
+**TryEZ** is a B2B virtual try-on engine. It renders clothes onto a person's photo using
+Stable Diffusion with IP-Adapter inpainting and a LoRA I trained from scratch, running on
+Modal GPUs with nothing stored along the way.
+→ [tryez.ai](https://tryez.ai/)
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white)
+**Velix** is visual-first document search. It indexes pages straight into a Qdrant index
+with ColQwen2 embeddings so it can skip OCR entirely, then falls back through a 4-tier OCR
+chain and pulls structured fields with Qwen2.5-VL.
+→ [velix01.netlify.app](https://velix01.netlify.app/)
 
-**Tools & Infra**
+There's more on my portfolio if you want to dig in → [bhumishdayal.com](https://bhumishdayal.com)
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white)
-![W&B](https://img.shields.io/badge/W%26B-FFBE00?style=flat-square&logo=weightsandbiases&logoColor=black)
+### Tech I reach for
+
+Languages: Python, JavaScript, TypeScript, Java, C++, C, C#, Go, Rust, SQL
+
+Frameworks & libraries: PyTorch, TensorFlow, scikit-learn, NumPy, Pandas, OpenCV,
+LangChain, FastAPI, Flask, React, Next.js, Node.js, Spring Boot, .NET, Tailwind
+
+Tools & infra: Git, Docker, Kubernetes, AWS, Azure, Linux, PostgreSQL, MongoDB,
+HuggingFace, FFmpeg, W&B
 
 ### GitHub at a glance
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=BhumishDayal&theme=transparent&hide_border=true&layout=compact&card_width=380)
+![Bhumish's GitHub stats](https://github-readme-stats.vercel.app/api?username=BhumishDayal&show_icons=true&hide_border=true&theme=transparent)
 
-### Reach me
+### Say hi
 
-[bhumish.dayal3@gmail.com](mailto:bhumish.dayal3@gmail.com) · [LinkedIn](https://www.linkedin.com/in/bhumish-dayal/) · [Portfolio](https://bhumish-portolio.netlify.app/)
+bhumish.dayal3@gmail.com, [LinkedIn](https://www.linkedin.com/in/bhumish-dayal/), [Portfolio](https://bhumishdayal.com)
 
-If you're hiring for ML or SWE internships, or want to talk research, drop me a note.
+If you're hiring for ML or SWE roles, or you just want to talk shop, send me a note. I'm always happy to chat.
