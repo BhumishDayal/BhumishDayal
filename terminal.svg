@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="383.5" viewBox="0 0 840 383.5" role="img" aria-label="Terminal introduction for Bhumish Dayal">
+<defs>
+<linearGradient id="ray" x1="0" y1="0" x2="0.35" y2="1">
+<stop offset="0" stop-color="#a5c6be" stop-opacity="0.10"/>
+<stop offset="0.55" stop-color="#589c81" stop-opacity="0.03"/>
+<stop offset="1" stop-color="#589c81" stop-opacity="0"/>
+</linearGradient>
+<linearGradient id="warm" x1="0.2" y1="0" x2="0.5" y2="1">
+<stop offset="0" stop-color="#d5ad6f" stop-opacity="0.07"/>
+<stop offset="1" stop-color="#d5ad6f" stop-opacity="0"/>
+</linearGradient>
+<clipPath id="win"><rect x="0.5" y="0.5" width="839" height="382.5" rx="13"/></clipPath>
+<style>
+.l0{clip-path:inset(0 100% 0 0);animation:t0 24s steps(10) infinite}@keyframes t0{0%,0.00%{clip-path:inset(0 100% 0 0)}2.29%,100%{clip-path:inset(0 -6px 0 0)}}.l1{clip-path:inset(0 100% 0 0);animation:t1 24s steps(34) infinite}@keyframes t1{0%,7.29%{clip-path:inset(0 100% 0 0)}9.58%,100%{clip-path:inset(0 -6px 0 0)}}.l2{clip-path:inset(0 100% 0 0);animation:t2 24s steps(7) infinite}@keyframes t2{0%,14.58%{clip-path:inset(0 100% 0 0)}16.88%,100%{clip-path:inset(0 -6px 0 0)}}.l3{clip-path:inset(0 100% 0 0);animation:t3 24s steps(55) infinite}@keyframes t3{0%,21.88%{clip-path:inset(0 100% 0 0)}24.17%,100%{clip-path:inset(0 -6px 0 0)}}.l4{clip-path:inset(0 100% 0 0);animation:t4 24s steps(9) infinite}@keyframes t4{0%,29.17%{clip-path:inset(0 100% 0 0)}31.46%,100%{clip-path:inset(0 -6px 0 0)}}.l5{clip-path:inset(0 100% 0 0);animation:t5 24s steps(51) infinite}@keyframes t5{0%,36.46%{clip-path:inset(0 100% 0 0)}38.75%,100%{clip-path:inset(0 -6px 0 0)}}.l6{clip-path:inset(0 100% 0 0);animation:t6 24s steps(9) infinite}@keyframes t6{0%,43.75%{clip-path:inset(0 100% 0 0)}46.04%,100%{clip-path:inset(0 -6px 0 0)}}.l7{clip-path:inset(0 100% 0 0);animation:t7 24s steps(44) infinite}@keyframes t7{0%,51.04%{clip-path:inset(0 100% 0 0)}53.33%,100%{clip-path:inset(0 -6px 0 0)}}
+.cur{animation:b 1.06s steps(1) infinite}
+@keyframes b{0%,50%{opacity:1}50.01%,100%{opacity:0}}
+</style>
+</defs>
+<rect x="0.5" y="0.5" width="839" height="382.5" rx="13" fill="#000a09" stroke="#789b92" stroke-opacity="0.22"/>
+<g clip-path="url(#win)">
+<path d="M120 0 L300 0 L170 383.5 L20 383.5 Z" fill="url(#ray)"/>
+<path d="M470 0 L560 0 L430 383.5 L360 383.5 Z" fill="url(#warm)"/>
+<rect x="0" y="0" width="840" height="40" fill="#001916"/>
+<rect x="0" y="39.5" width="840" height="1" fill="#789b92" fill-opacity="0.18"/>
+<circle cx="22" cy="20" r="5" fill="#d5ad6f" fill-opacity="0.85"/>
+<circle cx="42" cy="20" r="5" fill="#589c81" fill-opacity="0.8"/>
+<circle cx="62" cy="20" r="5" fill="#6b7776" fill-opacity="0.6"/>
+<text x="420" y="24" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="12" fill="#6b7776">bhumish@utd · zsh</text>
+<text class="l0" x="26" y="74" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="15"><tspan fill="#3e7d66">~ </tspan><tspan fill="#589c81">% </tspan><tspan fill="#dce3e1">whoami</tspan></text><text class="l1" x="26" y="104" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="15"><tspan fill="#a2aeab">Bhumish Dayal · CS @ UT Dallas '27</tspan></text><text class="l2" x="26" y="150.5" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="15"><tspan fill="#3e7d66">~ </tspan><tspan fill="#589c81">% </tspan><tspan fill="#dce3e1">now</tspan></text><text class="l3" x="26" y="180.5" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="15"><tspan fill="#a2aeab">Open to SWE and ML roles · building Cursorly and Tryeka</tspan></text><text class="l4" x="26" y="227" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="15"><tspan fill="#3e7d66">~ </tspan><tspan fill="#589c81">% </tspan><tspan fill="#dce3e1">stats</tspan></text><text class="l5" x="26" y="257" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="15"><tspan fill="#d5ad6f">474</tspan><tspan fill="#6b7776"> contributions · </tspan><tspan fill="#d5ad6f">19</tspan><tspan fill="#6b7776"> public repos · mostly </tspan><tspan fill="#a5c6be">Python</tspan></text><text class="l6" x="26" y="303.5" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="15"><tspan fill="#3e7d66">~ </tspan><tspan fill="#589c81">% </tspan><tspan fill="#dce3e1">links</tspan></text><text class="l7" x="26" y="333.5" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="15"><tspan fill="#589c81">bhumishdayal.com   cursorly.app   tryeka.com</tspan></text>
+<rect class="cur" x="26" y="339.5" width="9" height="17" fill="#589c81"/>
+</g>
+</svg>
