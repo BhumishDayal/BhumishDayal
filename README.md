@@ -40,4 +40,4 @@ HuggingFace, FFmpeg, W&B
 
 bhumish.dayal3@gmail.com, [LinkedIn](https://www.linkedin.com/in/bhumish-dayal/), [Portfolio](https://bhumishdayal.com)
 
-If you're want to talk, send me a note. I'm always happy to chat.
+If you wanna talk, send me a note. I'm always happy to chat.
