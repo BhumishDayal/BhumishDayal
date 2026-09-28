@@ -2,11 +2,7 @@
 
 ### Hey, I'm Bhumish 👋
 
-I'm a CS student at UT Dallas (graduating 2027) who mostly likes turning rough ideas into
-things that actually run. I spent this summer interning as a software engineer at
-FloCareer, and before that a year doing NLP research with Dr. Vincent Ng on multimodal
-misinformation. When I'm not working I'm usually deep in a side project, or playing
-badminton.
+Just Building.
 
 ### What I've been up to
 
@@ -23,9 +19,6 @@ badminton.
 
 **Tryeka** is agentic scheduling. A host says how their days should work, a guest chats and books.
 → [tryeka.com](https://tryeka.com)
-
-**Velix** is visual-first document search that indexes pages directly and skips OCR.
-→ [velix01.netlify.app](https://velix01.netlify.app/)
 
 There's more on my portfolio if you want to dig in → [bhumishdayal.com](https://bhumishdayal.com)
 
@@ -47,4 +40,4 @@ HuggingFace, FFmpeg, W&B
 
 bhumish.dayal3@gmail.com, [LinkedIn](https://www.linkedin.com/in/bhumish-dayal/), [Portfolio](https://bhumishdayal.com)
 
-If you're hiring for ML or SWE roles, or you just want to talk shop, send me a note. I'm always happy to chat.
+If you're want to talk, send me a note. I'm always happy to chat.
